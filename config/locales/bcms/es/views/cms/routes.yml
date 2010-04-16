@@ -1,9 +1,0 @@
-es:
-  routes:
-    index:
-      page_title: Rutas Rails
-      path_to_test: Ruta a probar
-      name: Nombre
-      verb: Verbo
-      pattern: Patrón
-      result: Resultado
